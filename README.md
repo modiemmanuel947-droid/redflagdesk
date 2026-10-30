@@ -1,0 +1,2 @@
+# redflagdesk
+check for scams
